@@ -1,1 +1,2 @@
-# 20085086_Rohan-Saha_ITW2-Django.URL.Shortener
+# URLShort-Tutorial-YT
+Go To Tech Notebook's Youtube Channel To Watch Tutorial Videos on the ShortURL Project
